@@ -1,3 +1,9 @@
-.env
-pydj5env/
-__pycache__
+# Blog Platform
+BlogPlatform/.env
+BlogPlatform/pydj5env/
+BlogPlatform/__pycache__
+
+# Bookmark Platform
+BookmarkPlatform/.env
+BookmarkPlatform/pydj5env/
+BookmarkPlatform/__pycache__
