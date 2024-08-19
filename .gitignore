@@ -1,9 +1,5 @@
 # Blog Platform
-BlogPlatform/.env
-BlogPlatform/pydj5env/
-BlogPlatform/__pycache__
+BlogPlatform/.gitignore
 
 # Bookmark Platform
-BookmarkPlatform/.env
-BookmarkPlatform/bookmarksenv/
-BookmarkPlatform/__pycache__
+BookmarkPlatform/.gitignore
