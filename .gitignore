@@ -5,5 +5,5 @@ BlogPlatform/__pycache__
 
 # Bookmark Platform
 BookmarkPlatform/.env
-BookmarkPlatform/bookmarks/bookmarkenv/
+BookmarkPlatform/bookmarksenv/
 BookmarkPlatform/__pycache__
