@@ -1,5 +1,1 @@
-# BlogPlatform
-Blogger platform with Python3.12 Django5.
-
-# BookmarkPlatform
-Bookmark platform with Python3.12 Django5.0.4
+Python Django Rest Quickstart with Python 3.12 on Ubuntu 20 LTS
