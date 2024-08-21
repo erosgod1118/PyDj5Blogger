@@ -1,0 +1,6 @@
+# Directories
+drfenv/
+__pycache__/
+
+# Files
+.env
