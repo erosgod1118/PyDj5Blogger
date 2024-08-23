@@ -1,5 +1,7 @@
-# Blog Platform
-BlogPlatform/.gitignore
+# Directories
+__pycache__/
+bookmarksenv/
+media/
 
-# Bookmark Platform
-BookmarkPlatform/.gitignore
+# Files
+.env
